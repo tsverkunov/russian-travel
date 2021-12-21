@@ -6,3 +6,16 @@
   text-transform: uppercase;
   padding: 6px 16px 64px;
 }
+
+@media screen and (min-width: 768px) {
+  .lead__image-caption {
+    padding: 6px 24px 88px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__image-caption {
+    padding: 6px 0 92px;
+  }
+}
+

@@ -1,22 +1,21 @@
-.intro {
-  padding: 0 16px;
+.places {
+  padding: 64px 0 16px;
 }
 
 @media screen and (min-width: 768px) {
-  .intro {
-    padding: 0 24px;
+  .places {
+    padding: 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .intro {
+  .places {
     padding: 0 48px;
   }
 }
 
 @media screen and (min-width: 1280px) {
-  .intro {
-    padding: 0 100px;
+  .places {
+    padding: 0 100px 12px;
   }
 }
-

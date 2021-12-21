@@ -3,6 +3,22 @@
   font-size: 16px;
   line-height: 20px;
   text-align: center;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 288px;
   padding: 0 16px 40px;
+}
+
+@media screen and (min-width: 768px) {
+  .lead__subtitle {
+    padding: 0 24px 56px;
+    font-size: 30px;
+    line-height: 36px;
+    max-width: 620px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__subtitle {
+    padding: 0 24px 64px;
+  }
 }

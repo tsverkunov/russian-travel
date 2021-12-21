@@ -1,11 +1,11 @@
 .cover {
-  text-align: center;
+  /*text-align: center;*/
   /*min-height: 200px;*/
-  width: 100%;
-  background: url("../../images/cover-trains.jpg") no-repeat;
-  background-size: cover;
+  /*width: 100%;*/
+  /*background: url("../../images/cover-trains.jpg") no-repeat;*/
+  /*background-size: cover;*/
 }
-.cover::after {
-  content: '';
+/*.cover::after {*/
+/*  content: '';*/
 
-}
+/*}*/
