@@ -8,6 +8,14 @@
   padding: 0 16px 40px;
 }
 
+@media screen and (min-width: 600px) {
+  .lead__subtitle {
+    font-size: 22px;
+    line-height: 26px;
+    max-width: 470px;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .lead__subtitle {
     padding: 0 24px 56px;
